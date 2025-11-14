@@ -159,4 +159,5 @@ For both models:
 ## ▶️ How to Run
 
 pip install -r requirements.txt
+
 jupyter notebook notebooks/KNN.ipynb
